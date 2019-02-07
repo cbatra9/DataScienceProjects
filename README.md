@@ -1,4 +1,4 @@
-# DataScienceProjects
+# Data Science Projects
 List of the completed Data Science Projects
 
 ## DataCamp Projects 
