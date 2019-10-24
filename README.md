@@ -11,8 +11,8 @@ List of the completed Data Science Projects
 
 ## Kaggle Projects 
 
-- [Project 1: Predicting heart disease]
-(https://github.com/cbatra9/DataScienceProjects/blob/master/Predicting%20heart%20disease): Predicted whether or not a patient has heart disease using classification models like logistic regression and decision trees.
+- [Project 1: Predicting heart disease](https://github.com/cbatra9/DataScienceProjects/blob/master/Predicting%20heart%20disease):
+Predicted whether or not a patient has heart disease using classification models like logistic regression and decision trees.
   - R libraries used: `dplyr`, `glm`, `forecast`
 
 
