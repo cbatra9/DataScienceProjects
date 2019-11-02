@@ -1,1 +1,6 @@
 theme: jekyll-theme-leap-day
+
+plugins:
+ - jemoji https://cbatra9.github.io/JCP-R-Training/ 
+ 
+markdown: CommonMarkGhPages 
