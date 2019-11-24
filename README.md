@@ -8,6 +8,10 @@ List of the completed Data Science Projects
 
 - [Project 2: Level Difficulty in Candy Crush Saga](https://github.com/cbatra9/DataScienceProjects/blob/master/Level%20Difficulty%20in%20Candy%20Crush%20Saga.ipynb): Analyze data from the hit mobile game, Candy Crush Saga to estimate level difficulty.
   - R libraries used: `ggplot2`, `dplyr`, `readr`
+  
+- [Project 3: Visualizing Inequalities in Life Expectancy](https://github.com/cbatra9/DataScienceProjects/blob/master/Visualizing%20Inequalities%20in%20Life%20Expectancy.ipynb): Comparison of Life Expectancy across countries and genders with ggplot2.
+  - R libraries used: `ggplot2`, `dplyr`
+
 
 ## Kaggle Projects 
 
