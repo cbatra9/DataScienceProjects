@@ -11,6 +11,9 @@ List of the completed Data Science Projects
   
 - [Project 3: Visualizing Inequalities in Life Expectancy](https://github.com/cbatra9/DataScienceProjects/blob/master/Visualizing%20Inequalities%20in%20Life%20Expectancy.ipynb): Comparison of Life Expectancy across countries and genders with ggplot2.
   - R libraries used: `ggplot2`, `dplyr`
+  
+- [Project 4: Data Science for Social Good- SF Crime Study](https://github.com/cbatra9/DataScienceProjects/blob/master/Data%20Science%20for%20Social%20Good-%20SF%20Crime%20Study.ipynb): Leverage publicly available data to interpret crime patterns within the city of San Francisco.
+  - R libraries used: `ggplot2`, `dplyr`, `ggmap`
 
 
 ## Kaggle Projects 
