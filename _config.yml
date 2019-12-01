@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-markdown: CommonMarkGhPages
-
 plugins:
  - jemoji https://cbatra9.github.io/JCP-R-Training/ 
+
+markdown: CommonMarkGhPages
