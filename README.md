@@ -1,3 +1,5 @@
+# Data Science Projects
+
 ## DataCamp Projects 
   
 - [Project 1: Visualizing Inequalities in Life Expectancy](https://github.com/cbatra9/DataScienceProjects/blob/master/Visualizing%20Inequalities%20in%20Life%20Expectancy.ipynb): Comparison of Life Expectancy across countries and genders with ggplot2.
